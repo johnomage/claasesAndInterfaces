@@ -1,5 +1,4 @@
-package chapter13;
-import java.math.*;//package com.edus.chapter13;
+import java.math.*;
 import java.util.*;
 public class Factorial
 {
